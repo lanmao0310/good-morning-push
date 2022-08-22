@@ -2,6 +2,15 @@
 
 早安推送
 
+##  环境 php8 
+```php
+//安装依赖包
+composer i
+
+//运行
+php run.php
+
+```
 ##  模板消息
 ```php
 {{data.DATA}} 
